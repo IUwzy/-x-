@@ -5,10 +5,6 @@
 规则
 解锁网易云音乐
 # 分流作用：修正某些被分流到外面的国内网站
-# 重要提示：无
-# 项目地址：https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list
-# 交流群组：https://t.me/quguanggao
-# 更新时间：2023.02.15 17:10
 # 策略选择：直连 direct
 #############################################
 # > "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
